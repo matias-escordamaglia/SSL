@@ -7,4 +7,4 @@ int main() {
    return 0;
 }
 
-// $ ./hello.exe > output.txt
+// $ ./a.exe > output.txt
