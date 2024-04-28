@@ -33,4 +33,13 @@ Adquirir y preparar los recursos necesarias para resolver los trabajos del curso
           - iv. Ejecute el programa con la salida redireccionada a un archivo output.txt; verifique su contenido.
 
 ## Resolución
-Se selecciono el compilador c18
+
+1. Se escribió en lenguaje C lo necesario para que, en la salida, envíe "Hello World"
+2. Se seleccion el nombre del programa y compilador c18 escribiendo en la terminal 
+    ```
+    gcc hello.c -o hello.exe -std=c18
+    ```
+3. Se redireccionó la ejecución del programa al archivo output.txt escribiendo en la terminal
+    ```
+    ./hello.exe > output.txt
+    ```

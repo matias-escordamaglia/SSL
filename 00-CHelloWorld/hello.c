@@ -6,5 +6,3 @@ int main() {
    
    return 0;
 }
-
-// $ ./a.exe > output.txt
